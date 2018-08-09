@@ -5,7 +5,8 @@ Repository of scripts used in my research papers.
 in this directory are the scripts ans associated data (csv files, etc) of the paper:
 Grohmann, C.H. 2018. 
 Evaluation of TanDEM-X DEMs on selected Brazilian sites: comparison with SRTM, ASTER GDEM and ALOS AW3D30
-submitted to Remote Sensing of Environment (under review)
+submitted to Remote Sensing of Environment, 212C:121-133.
+https://doi.org/10.1016/j.rse.2018.04.043
 
 
 * [Grohmann_2016_ISPRS_GDEMs_Ultras.py](Grohmann_2016_ISPRS_GDEMs_Ultras.py)  
