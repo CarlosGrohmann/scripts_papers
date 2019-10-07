@@ -1,13 +1,21 @@
 # Scripts - research papers
 Repository of scripts used in my research papers.
 
-* [tdx_brazil](tdx_brazil)
-in this directory are the scripts ans associated data (csv files, etc) of the paper:
-Grohmann, C.H. 2018. 
-Evaluation of TanDEM-X DEMs on selected Brazilian sites: comparison with SRTM, ASTER GDEM and ALOS AW3D30
-submitted to Remote Sensing of Environment, 212C:121-133.  
-https://doi.org/10.1016/j.rse.2018.04.043
+* [garopaba_als_sfm_tls](garopaba_als_sfm_tls)
+in this directory are the scripts and associated data (shp files, etc) of the paper:
+Grohmann,C.H.; Garcia,G.P.B.,; Affonso,A.A; Albuquerque,R.W., 2020.  
+Dune migration and volume change from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo  
+submitted to ISPRS Journal of Photogrammetry and Remote Sensing.  
+preprint: 
 
+
+* [tdx_brazil](tdx_brazil)
+in this directory are the scripts and associated data (csv files, etc) of the paper:
+Grohmann, C.H. 2018.  
+Evaluation of TanDEM-X DEMs on selected Brazilian sites: comparison with SRTM, ASTER GDEM and ALOS AW3D30  
+Remote Sensing of Environment, 212C:121-133.  
+https://doi.org/10.1016/j.rse.2018.04.043
+preprint: https://arxiv.org/abs/1709.05016
 
 * [Grohmann_2016_ISPRS_GDEMs_Ultras.py](Grohmann_2016_ISPRS_GDEMs_Ultras.py)  
 script for  
