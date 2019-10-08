@@ -3,7 +3,7 @@ Repository of scripts used in my research papers.
 
 * [garopaba_als_sfm_tls](garopaba_als_sfm_tls)
 in this directory are the scripts and associated data (shp files, etc) of the paper:
-Grohmann,C.H.; Garcia,G.P.B.,; Affonso,A.A; Albuquerque,R.W., 2020.  
+Grohmann,C.H., Garcia,G.P.B., Affonso,A.A., Albuquerque,R.W., 2020.  
 Dune migration and volume change from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo  
 submitted to ISPRS Journal of Photogrammetry and Remote Sensing.  
 preprint: 
