@@ -9,10 +9,14 @@ preprint:
 
 * [garopaba_als_sfm_tls_jupyter_MonteCarlo.ipynb](garopaba_als_sfm_tls_jupyter_MonteCarlo.ipynb) - is the Jupyter notebook of the Monte Carlos-like approach to determine the number of random points needed to compare two DEMs  
 
-* [garopaba_als_sfm_tls_jupyter.ipynb](garopaba_als_sfm_tls_jupyter.ipynb) - is the main Jupyter notebook
+* [garopaba_als_sfm_tls_jupyter_MonteCarlo.pdf](garopaba_als_sfm_tls_jupyter_MonteCarlo.pdf) - pdf version of the Jupyter notebook  
+
+* [garopaba_als_sfm_tls_jupyter.ipynb](garopaba_als_sfm_tls_jupyter.ipynb) - the main Jupyter notebook
+
+* [garopaba_als_sfm_tls_jupyter.pdf](garopaba_als_sfm_tls_jupyter.pdf) - pdf version of the Jupyter notebook
 
 
-*Last updated: 2019-10-07*
+*Last updated: 2019-10-08*
 <!-- readme -->
 <!-- https://git.io/fj9JI -->
 
