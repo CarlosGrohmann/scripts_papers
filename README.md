@@ -1,6 +1,8 @@
 # Scripts - research papers
 Repository of scripts used in my research papers.
 
+https://zenodo.org/badge/doi/10.5281/zenodo.3476779.svg
+
 * [garopaba_als_sfm_tls](garopaba_als_sfm_tls)
 in this directory are the scripts and associated data (shp files, etc) of the paper:
 Grohmann,C.H., Garcia,G.P.B., Affonso,A.A., Albuquerque,R.W., 2020.  
