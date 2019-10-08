@@ -1,7 +1,7 @@
 # Scripts - research papers
 Repository of scripts used in my research papers.
 
-https://zenodo.org/badge/doi/10.5281/zenodo.3476779.svg
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3476779.svg)](http://dx.doi.org/10.5281/zenodo.3476779)
 
 * [garopaba_als_sfm_tls](garopaba_als_sfm_tls)
 in this directory are the scripts and associated data (shp files, etc) of the paper:
