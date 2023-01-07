@@ -4,6 +4,7 @@ Grohmann,C.H.; Garcia,G.P.B.,; Affonso,A.A; Albuquerque,R.W., 2020.
 Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo  
 submitted for revision.  
 preprint: https://arxiv.org/abs/1910.06186  
+final paper: http://doi.org/10.1016/j.cageo.2020.104569
 
 * [v2019](v2019) - files for 2019 version  
 
